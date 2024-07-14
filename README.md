@@ -7,6 +7,7 @@ In this repo, users can translate some words or senteces from one language to an
 - Real-time language translation.
 - User-friendly interface.
 - Supports multiple languages including English, Spanish, French, German, and more.
+- MyMemmory API.
 
 # GIF
 
