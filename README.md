@@ -1,9 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Translator_App
+
+In this repo, users can translate some words or senteces from one language to another.
+
+# Features
+
+- Real-time language translation.
+- User-friendly interface.
+- Supports multiple languages including English, Spanish, French, German, and more.
+
+# GIF
+
+![0714](https://github.com/user-attachments/assets/4763f565-0ae0-474e-b785-21bc2a050bd7)
